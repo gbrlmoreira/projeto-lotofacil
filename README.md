@@ -1,4 +1,4 @@
-Lotofácil
+#Lotofácil
 O Lotofácil é um projeto acadêmico desenvolvido como parte da disciplina de Linguagens de Programação no Centro Universitário Newton Paiva. Este programa em Java permite aos usuários jogar e testar sua sorte em três modalidades diferentes. O projeto oferece as seguintes opções:
 
 Apostar de 0 a 100: O usuário insere um número entre 0 e 100 e verifica se ele corresponde a um número sorteado aleatoriamente. Se coincidir, o usuário ganha um prêmio.
